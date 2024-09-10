@@ -27,7 +27,7 @@ g++ -o ninemedics main.cpp -pthread
 
 ### Next Steps
 
-The next steps involve transitioning to a GUI-based application using Qt, incorporating advanced features, and exploring database and cloud integration. For detailed planning and future phases, refer to the [Roadmap](ROADMAP.md).
+The next steps involve transitioning to a GUI-based application using Qt, incorporating advanced features, and exploring database and cloud integration. For detailed planning and future phases, refer to the [Roadmap](roadmap.md).
 
 ## Contributing
 
