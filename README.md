@@ -13,6 +13,18 @@ The Medication Reminder App is designed to help users manage their medication sc
 - **Medication Editing and Deletion**: Implemented to allow modification and removal of medications.
 - **Data Persistence**: Planned addition of file I/O for storing data.
 
+## Usage
+
+1. Make sure you have the necessary C++ libraries installed.
+
+2. Compile it:
+```bash
+g++ -o ninemedics main.cpp -pthread     
+```
+
+3. Run the executable with `./ninemedics`
+
+
 ### Next Steps
 
 The next steps involve transitioning to a GUI-based application using Qt, incorporating advanced features, and exploring database and cloud integration. For detailed planning and future phases, refer to the [Roadmap](ROADMAP.md).
