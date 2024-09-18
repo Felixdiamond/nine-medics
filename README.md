@@ -6,23 +6,32 @@ The Medication Reminder App is designed to help users manage their medication sc
 
 ## Current Progress
 
-### Phase 1: Console Application (Current Stage)
+### Phase 1: Console Application (Finished)
 - **Basic Medication Management**: Users can add and display medications.
 - **Reminder Functionality**: Basic reminders for medication times are in place.
 - **Error Handling and Input Validation**: Improved for more robust user interaction.
 - **Medication Editing and Deletion**: Implemented to allow modification and removal of medications.
-- **Data Persistence**: Planned addition of file I/O for storing data.
+- **Data Persistence**: Implemented addition of file I/O for storing data.
+
+## Phase 2: Learning Qt Basics
+- **Set up Qt development envioronment**: Currently learning about qt and how to get started
 
 ## Usage
 
-1. Make sure you have the necessary C++ libraries installed.
-
-2. Compile it:
+1. Clone the repo:
 ```bash
-g++ -o ninemedics main.cpp -pthread     
+git clone https://github.com/Felixdiamond/nine-medics
 ```
 
-3. Run the executable with `./ninemedics`
+2. Install CMake and vcpkg
+
+3. Run `vcpkg install` in directory 
+
+4. Create build folder and cd into it and run `cmake ..`
+
+5. Run `build`
+
+6. Run the executable with `./nine-medics`
 
 
 ### Next Steps

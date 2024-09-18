@@ -5,7 +5,7 @@
 - [x] Reminder functionality
 - [X] Improve error handling and user input validation
 - [X] Implement medication editing and deletion
-- [ ] Add basic data persistence (file I/O)
+- [X] Add basic data persistence (file I/O)
 
 ## Phase 2: Learning Qt Basics
 - [ ] Set up Qt development environment
