@@ -1,13 +1,13 @@
 # Roadmap for Medication Reminder App
 
-## Phase 1: Console Application (Current Stage)
+## Phase 1: Console Application
 - [x] Basic medication management (add, display)
 - [x] Reminder functionality
 - [X] Improve error handling and user input validation
 - [X] Implement medication editing and deletion
 - [X] Add basic data persistence (file I/O)
 
-## Phase 2: Learning Qt Basics
+## Phase 2: Learning Qt Basics (Current Stage)
 - [ ] Set up Qt development environment
 - [ ] Complete Qt tutorials and basic exercises
 - [ ] Convert console menu to a simple Qt GUI

@@ -13,7 +13,7 @@ The Medication Reminder App is designed to help users manage their medication sc
 - **Medication Editing and Deletion**: Implemented to allow modification and removal of medications.
 - **Data Persistence**: Implemented addition of file I/O for storing data.
 
-### Phase 2: Learning Qt Basics (Current Phase)
+### Phase 2: Learning Qt Basics (Current Stage)
 - **Set up Qt development envioronment**: Currently learning about qt and how to get started
 
 ## Usage
